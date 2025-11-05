@@ -9,6 +9,6 @@ Basic command-line Python implementation of the game Wordle.
 
 # Installation
 1. Download source files.
-2. Have Python installed on your computer.
-3. Run `python wordle.py`.
+2. Have Python installed on your computer (recommended is through Windows Store).
+3. Run `python wordle.py` in the directory where the source files are stored.
 4. Have fun!
